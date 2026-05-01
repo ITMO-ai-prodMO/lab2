@@ -1,0 +1,39 @@
+{
+  "Quadratic-6D-good": {
+    "convergence": "convergence_quadratic_6d_good.png",
+    "value_eps": "value_eps_quadratic_6d_good.png"
+  },
+  "Quadratic-4D-bad": {
+    "convergence": "convergence_quadratic_4d_bad.png",
+    "value_eps": "value_eps_quadratic_4d_bad.png"
+  },
+  "Rosenbrock-3D": {
+    "convergence": "convergence_rosenbrock_3d.png",
+    "value_eps": "value_eps_rosenbrock_3d.png"
+  },
+  "Rastrigin-2D": {
+    "convergence": "convergence_rastrigin_2d.png",
+    "value_eps": "value_eps_rastrigin_2d.png",
+    "trajectory": "trajectory_rastrigin_2d.png"
+  },
+  "Ackley-2D": {
+    "convergence": "convergence_ackley_2d.png",
+    "value_eps": "value_eps_ackley_2d.png",
+    "trajectory": "trajectory_ackley_2d.png"
+  },
+  "Himmelblau-2D": {
+    "convergence": "convergence_himmelblau_2d.png",
+    "value_eps": "value_eps_himmelblau_2d.png",
+    "trajectory": "trajectory_himmelblau_2d.png"
+  },
+  "Eggholder-2D": {
+    "convergence": "convergence_eggholder_2d.png",
+    "value_eps": "value_eps_eggholder_2d.png",
+    "trajectory": "trajectory_eggholder_2d.png"
+  },
+  "Badie-2D": {
+    "convergence": "convergence_badie_2d.png",
+    "value_eps": "value_eps_badie_2d.png",
+    "trajectory": "trajectory_badie_2d.png"
+  }
+}
