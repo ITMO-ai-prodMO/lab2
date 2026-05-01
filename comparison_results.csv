@@ -1,0 +1,16 @@
+Лабораторная,Тип функции,Функция,Метод,Лучшее значение,Итерации,Вызовы функции,Время (сек),Память (байт)
+Лаба 1,Гладкая выпуклая,Sphere function (2 variables),NelderMead,1.3941833587415432e-13,56,453,0.0007314499998756219,0
+Лаба 2,Гладкая выпуклая,Sphere function (2 variables),RandomSearch,0.005487448909828434,3000,3001,1.2048535249996348,710511
+Лаба 2,Гладкая выпуклая,Sphere function (2 variables),SimulatedAnnealing,1.618731817672299e-05,3000,3001,1.7200738689998616,828244
+Лаба 1,Овражная,Rosenbrock function (2 variables),NelderMead,3.494305725384062e-14,139,1091,0.0022164499996506493,0
+Лаба 2,Овражная,Rosenbrock function (2 variables),RandomSearch,0.05650670984448107,3000,3001,2.088997212000322,709180
+Лаба 2,Овражная,Rosenbrock function (2 variables),SimulatedAnnealing,0.002509467354780963,3000,3001,1.9861615250001705,817260
+Лаба 1,Многоэкстремальная,Rastrigin function (2 variables),NelderMead,0.0,64,502,0.0007931899999675807,0
+Лаба 2,Многоэкстремальная,Rastrigin function (2 variables),RandomSearch,1.063856586657868,3000,3001,2.050793027999134,709708
+Лаба 2,Многоэкстремальная,Rastrigin function (2 variables),SimulatedAnnealing,3.9967172053657585,3000,3001,2.440941507000389,813344
+Лаба 1,Несколько минимумов,Himmelblau function,NelderMead,2.3252309694498862e-12,57,460,0.0006045589998393552,0
+Лаба 2,Несколько минимумов,Himmelblau function,RandomSearch,0.004560505113682703,3000,3001,1.7532593260002614,704628
+Лаба 2,Несколько минимумов,Himmelblau function,SimulatedAnnealing,0.0014523185411203284,3000,3001,2.9791338280001582,816548
+Лаба 1,Разрывная,Desmos discontinuous function,NelderMead,0.8984015815540454,78,629,0.0011474789998828783,0
+Лаба 2,Разрывная,Desmos discontinuous function,RandomSearch,0.5443520074423668,3000,3001,0.9300271809997867,705796
+Лаба 2,Разрывная,Desmos discontinuous function,SimulatedAnnealing,0.3277579434918795,3000,3001,1.2354140919997008,809412
