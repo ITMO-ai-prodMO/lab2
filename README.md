@@ -9,3 +9,21 @@
 Необходимо провести сравнение скорости сходимости, количества вызовов функции и требуемой памяти для реализованных методов в этой лабораторной работе и в предыдущей. Сравнение ожидается табличным и по возможности графическим.
 
 Требуется теоретическое пояснение к тому почему конкретный метод уступает/превосходит иные методы.
+
+## Reproducible environment
+
+Dependencies are pinned in `requirements.txt`.
+
+Local run:
+
+```powershell
+python -m pip install -r requirements.txt
+python run_experiments.py
+```
+
+Docker run:
+
+```powershell
+docker build -t lab2-optimization .
+docker run --rm -v ${PWD}/results:/app/results lab2-optimization
+```
